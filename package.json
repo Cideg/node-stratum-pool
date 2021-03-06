@@ -31,8 +31,7 @@
         "multi-hashing": "git://github.com/MintPond/hasher-kawpow.git",
         "bignum": "0.13.1",
         "base58-native": "*",
-        "async": "*"
-        
+        "async": "*",   
         "merkle-bitcoin": "git+https://github.com/bitcoinjs/merkle-lib.git",
         "promise": "*",
         "sha3": "git+https://github.com/phusion/node-sha3.git"
