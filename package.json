@@ -32,7 +32,7 @@
         "bignum": "0.13.1",
         "base58-native": "*",
         "async": "*"
-         "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
+        
         "merkle-bitcoin": "git+https://github.com/bitcoinjs/merkle-lib.git",
         "promise": "*",
         "sha3": "git+https://github.com/phusion/node-sha3.git"
